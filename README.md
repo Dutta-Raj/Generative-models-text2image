@@ -1,4 +1,3 @@
-# PRODIGY_G_02
 # Text-to-Image Generator
 
 Generate high-quality images from text prompts using Stable Diffusion.
